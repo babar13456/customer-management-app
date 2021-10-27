@@ -1,1 +1,1 @@
-web: gunicorn customer_management.wsgi
+web: gunicorn first.wsgi
